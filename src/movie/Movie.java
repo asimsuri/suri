@@ -11,8 +11,9 @@ import java.util.Scanner;
  * @author Asim
  */
 public class Movie {
-this line added in GitHub
-	its me agian
+//this line added in GitHub
+//	its me agian
+    // this is from local machine to github
     /**
      * @param args the command line arguments
      */
